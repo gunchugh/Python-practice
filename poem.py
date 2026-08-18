@@ -1,0 +1,4 @@
+print('''Johny johny yes papa
+eating sugar no papa 
+telling lies no papa 
+open your mouth ha ha ha''');
